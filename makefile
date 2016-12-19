@@ -2,7 +2,7 @@ CC=g++
 CFLAGS=-c -Wall -fPIC
 LDFLAGS=-lm
 
-SOURCES=
+SOURCES=rapic.cc
 LIBNAME=tkdatalib
 MAJOR=1
 MINOR=0
